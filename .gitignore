@@ -775,3 +775,9 @@ composer.phar
 ######################
 *License.config
 
+web/WEB-INF/web.xml
+web/css/
+web/img/
+web/index.jsp
+web/js/
+web/jsp/
